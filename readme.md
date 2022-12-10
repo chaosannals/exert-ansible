@@ -1,6 +1,6 @@
 # exert ansible
 
-因为以来 Linux 环境 Ansible 无法在 Windows 下直接执行，所以可以在 WSL2 里面执行。
+因为依赖 Linux 环境 Ansible 无法在 Windows 下直接执行，所以可以在 WSL2 里面执行。
 
 ```bash
 pip install ansible
